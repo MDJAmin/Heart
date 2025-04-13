@@ -1,3 +1,7 @@
+## Demo
+
+Check out the live demo: [GitHub Pages Demo](https://mdjamin.github.io/Heart/)
+
 # HTML Canvas Project
 
 This project demonstrates the use of HTML5 Canvas. It allows drawing and manipulating graphics on the web using JavaScript.
